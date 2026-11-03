@@ -1,3 +1,5 @@
+# 김상은 우~
+
 # 점심 메뉴 추천 서비스
 
 ![점심](docs/images/lunch.svg)
